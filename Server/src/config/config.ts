@@ -16,7 +16,6 @@ interface Config {
   API_URL:string;
 }
 
-const oldurl = "mongodb+srv://accmywork6:eqco4ldQO98KkyTN@cluster0.rqrgsi6.mongodb.net/HospitalManagement";
 const newurl = "mongodb+srv://saisandy97:Indirarasagnasai@sandilya.3xruqkx.mongodb.net/DietPlanner";
 
 const config = Object.freeze({
