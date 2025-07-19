@@ -1,0 +1,41 @@
+# === Node.js (server) ===
+server/node_modules/
+server/dist/
+server/*.tsbuildinfo
+server/*.log
+server/logs/
+server/package-lock.json
+
+# === React (client) ===
+client/node_modules/
+client/build/
+client/dist/
+client/.cache/
+client/.turbo/
+client/.parcel-cache/
+client/package-lock.json
+
+# === Env files ===
+client/.env
+client/.env.*.local
+server/.env
+server/.env.*.local
+
+# === Common ===
+.env
+.env.*.local
+
+# === OS / Editor ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# === Test coverage ===
+coverage/
+client/coverage/
+server/coverage/
+
+# === Misc ===
+*.tgz
