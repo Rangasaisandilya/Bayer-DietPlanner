@@ -16,12 +16,11 @@ interface Config {
   API_URL:string;
 }
 
-const newurl = "mongodb+srv://saisandy97:Indirarasagnasai@sandilya.3xruqkx.mongodb.net/DietPlanner";
 
 const config = Object.freeze({
   PORT: process.env.PORT || 5555,
   NODE_ENV: process.env.MODE_ENV || "local",
-  DATABASE_URL: process.env.DATABASE_URL || newurl,
+  DATABASE_URL:  process.env.DATABASE_URL ,
   JWTKEY: process.env.JWTKEY || "",
   ENCRYPTION_KEY: process.env.ENCRYPTION_KEY || "",
   HOSTMAIL: process.env.HOSTMAIL || "",
