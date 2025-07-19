@@ -40,9 +40,6 @@ A comprehensive **MERN** (MongoDB, Express.js, React, Node.js) based full-stack 
 
 <img width="2880" height="1422" alt="image" src="https://github.com/user-attachments/assets/6e28e883-7203-4560-aafb-8b3016db3300" />
 
-### Dash Board
-<img width="2880" height="1422" alt="image" src="https://github.com/user-attachments/assets/189887cc-b7bc-47e1-85e6-02a75d4bff25" />
-
 ### 📊 BMI Calculator
 
 <img width="2880" height="1664" alt="image" src="https://github.com/user-attachments/assets/aadfdcf4-11d8-48f1-be96-37638e83c953" />
